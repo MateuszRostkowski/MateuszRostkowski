@@ -1,1 +1,3 @@
-[![MateuszRostkowski's github stats](https://github-readme-stats.vercel.app/api?username=mateuszrostkowski)](https://github.com/anuraghazra/github-readme-stats)
+[![MateuszRostkowski's github stats](https://github-readme-stats.vercel.app/api?username=mateuszrostkowski&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszrostkowski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
